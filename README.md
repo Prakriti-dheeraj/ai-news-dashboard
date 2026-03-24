@@ -196,12 +196,6 @@ Open: http://localhost:3000
 
 ## 📣 Broadcast Setup
 
-### Email (Real)
-Add to `.env`:
-```
-SMTP_USER=your@gmail.com
-SMTP_PASS=your_app_password
-```
 
 ### LinkedIn / WhatsApp / Blog / Newsletter
 Currently simulated. Integrate with:
